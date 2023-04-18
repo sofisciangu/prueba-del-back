@@ -1,0 +1,12 @@
+com\portf\prueba\sofiasc\model\HyS.class
+com\portf\prueba\sofiasc\service\IPersonaService.class
+com\portf\prueba\sofiasc\repository\PersonaRepository.class
+com\portf\prueba\sofiasc\SofiascApplication.class
+com\portf\prueba\sofiasc\controller\PersonaController.class
+com\portf\prueba\sofiasc\model\Educacion.class
+com\portf\prueba\sofiasc\model\Experiencia.class
+com\portf\prueba\sofiasc\model\Persona.class
+com\portf\prueba\sofiasc\repository\ExperienciaRepository.class
+com\portf\prueba\sofiasc\repository\HySRepository.class
+com\portf\prueba\sofiasc\service\PersonaService.class
+com\portf\prueba\sofiasc\repository\EducacionRepository.class
